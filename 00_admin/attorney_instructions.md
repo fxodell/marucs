@@ -1,0 +1,12 @@
+# Attorney Instructions
+- Goals:
+- Priorities:
+- Formatting preferences:
+- Deadlines:
+- Law firm: Janicek law
+- Paralegal: Cassidy Muniz
+- Address: 1100 NE Loop 410, Suite 600, San Antonio, Texas 78209
+- Phone: 210.366.4949
+- Cell: 210.724.2766
+- Fax: 210.979.6804
+- Email: cassidy@janiceklaw.com

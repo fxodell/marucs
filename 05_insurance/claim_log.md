@@ -1,0 +1,12 @@
+# Claim Log
+- Date: 2026-02-07
+  - Event: Claim filed with Progressive County Mutual Ins
+  - Claim number: 26471502720
+  - Policy number: 9772323056
+  - Insured: Marcus ODell
+  - Vehicle: 2014 Infiniti Q50
+  - Phone: 800-776-4737
+- Date: 2026-02-07
+  - Event: Coverage info received
+  - Vehicle on coverage sheet: 2016 Infiniti QX60 (VIN 5N1AL0MM8GC513266)
+  - Notes: Prior intake listed 2014 Infiniti Q50; verify correct vehicle.
