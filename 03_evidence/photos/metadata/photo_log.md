@@ -1,0 +1,52 @@
+# Photo Log
+
+Source folder: /images/
+
+- File: /images/Ambulance_Ride.jpg
+  - Category: UNKNOWN
+  - Capture date: UNKNOWN
+  - Notes:
+- File: /images/Fire_Truck_Number_43.jpg
+  - Category: UNKNOWN
+  - Capture date: UNKNOWN
+  - Notes:
+- File: /images/Fire_Truck_Number_51.jpg
+  - Category: UNKNOWN
+  - Capture date: UNKNOWN
+  - Notes:
+- File: /images/Front_Right_View_Car.jpeg
+  - Category: UNKNOWN
+  - Capture date: UNKNOWN
+  - Notes:
+- File: /images/Group_of_Men_Onsite.jpg
+  - Category: UNKNOWN
+  - Capture date: UNKNOWN
+  - Notes:
+- File: /images/Marcus_Full_Spectrum.JPG
+  - Category: UNKNOWN
+  - Capture date: UNKNOWN
+  - Notes:
+- File: /images/Screen_Shot_Meds1.jpeg
+  - Category: UNKNOWN
+  - Capture date: UNKNOWN
+  - Notes:
+- File: /images/Screen_Shot_Meds2.jpeg
+  - Category: UNKNOWN
+  - Capture date: UNKNOWN
+  - Notes:
+- File: /images/Todd_Phone_Number_210-419-4000.jpg
+  - Category: UNKNOWN
+  - Capture date: UNKNOWN
+  - Notes:
+- File: /images/Tow_Company_San_Antonio_Vehicke_Impound_Facility.jpg
+  - Category: UNKNOWN
+  - Capture date: UNKNOWN
+  - Notes:
+- File: /images/Tow_Company.jpg
+  - Category: UNKNOWN
+  - Capture date: UNKNOWN
+  - Notes:
+- File: /images/Tow_Misc.jpg
+  - Category: UNKNOWN
+  - Capture date: UNKNOWN
+  - Notes:
