@@ -3,6 +3,7 @@ Case Workspace: Marcus Wreck
 Purpose
 - Organize case materials for attorney use.
 - Keep facts tied to source documents.
+- Track witness contact details in `00_admin/contacts.md`.
 
 Structure
 - 00_admin: case profile and instructions.
