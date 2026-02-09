@@ -12,8 +12,9 @@
 
 ## Required First Steps (Before Any Change)
 1) Read `docs/CURSOR_RULES.md` (if present).
-2) Read `docs/CONTEXT.md` and `docs/TASKS.md` (if present).
-3) Identify the existing implementation in the repo BEFORE writing new code:
+2) Read `docs/CONTEXT.MD` and `docs/TASKS.MD` (if present).
+3) For injury/medical context: use `docs/` reference materials (e.g. `docs/Understand Neck Fracture.pdf`) and `04_medical/` summaries when drafting medical narrative or demand materials.
+4) Identify the existing implementation in the repo BEFORE writing new code:
    - relevant urls.py routes
    - views.py / view modules
    - templates and base layout
