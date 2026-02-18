@@ -7,8 +7,9 @@ Current known details (verified)
 - Incident: Tuesday, 2026-02-02, ~10:10 AM
 - Client: Marcus ODell
 - Insurer: Progressive County Mutual Ins (phone 800-776-4737)
+- Adjuster: Desiree Ruiz (Progressive), 713-354-4518
 - Policy number: 9772323056
-- Claim number: 26471502720
+- Claim number: 26854781068
 - Wreck vehicle: 2014 Infiniti Q50, VIN JN1BV7AP9EM678375
 - Vehicle towed to: San Antonio Vehicle Impound Facility, 3625 Growdon Rd, San Antonio, TX; phone 210-881-8440
 - Policy vehicles: 2016 Infiniti QX60, 2016 FIAT 500X, 2014 Infiniti Q50 (see 05_insurance/policy_info.md)

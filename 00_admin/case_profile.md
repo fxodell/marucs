@@ -4,7 +4,8 @@
 - Incident date: Tuesday, 2026-02-02, ~10:10 AM
 - Jurisdiction:
 - Lead attorney: Janicek law
-- Status: Claim filed with Progressive County Mutual Ins (Claim #26471502720)
+- Status: Claim filed with Progressive County Mutual Ins (Claim #26854781068)
+- Adjuster: Desiree Ruiz (Progressive), 713-354-4518
 - Wreck vehicle: 2014 Infiniti Q50, VIN JN1BV7AP9EM678375
 - Vehicle towed to: San Antonio Vehicle Impound Facility, 3625 Growdon Rd, San Antonio, TX; phone 210-881-8440
 - Policy: 9772323056; three vehicles (2016 QX60, 2016 FIAT 500X, 2014 Q50). Limits/deductibles in 05_insurance/policy_info.md

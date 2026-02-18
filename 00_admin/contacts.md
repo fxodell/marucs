@@ -3,6 +3,7 @@
 - Client: Marcus ODell
 - Opposing party:
 - Insurer: Progressive County Mutual Ins, 800-776-4737
+- Adjuster: Desiree Ruiz (Progressive), 713-354-4518
 - Providers:
 - Witness: Mari (phone 210-454-7978)
 - Paralegal: Cassidy Muniz

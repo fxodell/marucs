@@ -2,8 +2,9 @@
 
 - Insurer: Progressive County Mutual Ins
 - Phone: 800-776-4737
+- Adjuster: Desiree Ruiz (Progressive), 713-354-4518
 - Policy number: 9772323056
-- Claim number: 26471502720
+- Claim number: 26854781068
 - Insured: Marcus ODell
 
 ## Vehicles on policy
