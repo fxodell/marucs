@@ -4,6 +4,7 @@
 - Opposing party:
 - Insurer: Progressive County Mutual Ins, 800-776-4737
 - Adjuster: Desiree Ruiz (Progressive), 713-354-4518
+- Adjuster: Elizabeth (Progressive), 832-939-4341 (called re: check for car)
 - Providers:
 - Witness: Mari (phone 210-454-7978)
 - Paralegal: Cassidy Muniz
